@@ -1,3 +1,3 @@
 # kish
 Welcome to my Profile Repository!
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
